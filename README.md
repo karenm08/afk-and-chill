@@ -2,6 +2,8 @@
 
 ## :video_game: AFK & Chill :heart:
 
+</div>
+
 Team Members: Karen, Steven, Kalvin
 
 <strong> Live Application: https://afkandchill.netlify.app </strong>
