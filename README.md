@@ -41,27 +41,22 @@ Cognito AWS (Authentication), MongoDB Atlas, ReactJS,  AWS Lambda & API Gateway
 
 </br>
 
-### Low-Fidelity Prototype:
+### Preview:
 
-Login:
-<img src="https://i.imgur.com/em7g9HG.png" alt="Low Fidelity for AFK & Chill" width="100%" />
+Home:
+![](https://i.imgur.com/5M5m8gV.png)
 
 Register:
 <img src="https://i.imgur.com/9LRtxFp.png" alt="Low Fidelity for AFK & Chill" width="100%" />
 
-User bio:
-<img src="https://i.imgur.com/iQiwQLu.png" alt="Low Fidelity for AFK & Chill" width="100%" />
-
 Match selection:
-<img src="https://i.imgur.com/O41YY8e.png" alt="Low Fidelity for AFK & Chill" width="100%" />
-
-Creating a post:
-<img src="https://i.imgur.com/aIuVUL1.png" alt="Low Fidelity for AFK & Chill" width="100%" />
-
-All posts:
-<img src="https://i.imgur.com/oIYj8VU.png" alt="Low Fidelity for AFK & Chill" width="100%" />
+![](https://i.imgur.com/RXNR9dh.png)
 
 Messaging:
-<img src="https://i.imgur.com/PYmLIM4.png" alt="Low Fidelity for AFK & Chill" width="100%" />
+![](https://i.imgur.com/hxIH3RX.png)
 
-## References / Resources
+User bio:
+![](https://i.imgur.com/2a3YlFb.png)
+
+
+
