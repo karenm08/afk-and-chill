@@ -48,10 +48,10 @@ Cognito AWS (Authentication), MongoDB Atlas, ReactJS,  AWS Lambda & API Gateway
 ### Match selection
 ![](https://i.imgur.com/RXNR9dh.png)
 
-### Messaging:
+### Messaging 
 ![](https://i.imgur.com/hxIH3RX.png)
 
-### User bio:
+### User bio 
 ![](https://i.imgur.com/2a3YlFb.png)
 
 
