@@ -39,20 +39,19 @@ Cognito AWS (Authentication), MongoDB Atlas, ReactJS,  AWS Lambda & API Gateway
 
 <img src="https://i.imgur.com/To9YczG.png" alt="Low Fidelity for AFK & Chill" width="100%" />
 
-</br>
 
-### Preview:
+## :eye_speech_bubble: &nbsp; Preview
 
-Home:
+### Home
 ![](https://i.imgur.com/5M5m8gV.png)
 
-Match selection:
+### Match selection
 ![](https://i.imgur.com/RXNR9dh.png)
 
-Messaging:
+### Messaging:
 ![](https://i.imgur.com/hxIH3RX.png)
 
-User bio:
+### User bio:
 ![](https://i.imgur.com/2a3YlFb.png)
 
 
