@@ -4,8 +4,6 @@
 
 </div>
 
-Team Members: Karen, Steven, Kalvin
-
 <strong> Live Application: https://afkandchill.netlify.app </strong>
 </br>
 <strong>Description:</strong> A dating designed for applications for gamers
