@@ -46,9 +46,6 @@ Cognito AWS (Authentication), MongoDB Atlas, ReactJS,  AWS Lambda & API Gateway
 Home:
 ![](https://i.imgur.com/5M5m8gV.png)
 
-Register:
-<img src="https://i.imgur.com/9LRtxFp.png" alt="Low Fidelity for AFK & Chill" width="100%" />
-
 Match selection:
 ![](https://i.imgur.com/RXNR9dh.png)
 
