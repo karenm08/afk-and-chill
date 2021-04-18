@@ -57,14 +57,6 @@ Team Members: Karen, Steven, Kalvin
 2. login / sign up
 3. The system will require a database that stores messages, and user data.
 
-### Non-functional Requirements
-
-1.
-2.
-3.
-4.
-5.
-
 ## :file_folder: &nbsp; SUPPORTING DOCUMENTS
 
 ### Database Diagram:
