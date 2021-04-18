@@ -4,17 +4,11 @@
 
 Team Members: Karen, Steven, Kalvin
 
-</div>
-
-</br>
-
 <strong> Live Application: https://afkandchill.netlify.app </strong>
-<strong>App type:</strong> Fullstack Serverless App<br/>
-<strong>Description:</strong> A dating designed for applications for gamers.
-<br/>
-</br>
+<strong>Description:</strong> A dating designed for applications for gamers
 
-</br>
+## :computer: &nbsp;Technologies
+Cognito AWS (Authentication), MongoDB Atlas, ReactJS,  AWS Lambda & API Gateway
 
 ## :bookmark_tabs: &nbsp; FEATURE LIST
 
